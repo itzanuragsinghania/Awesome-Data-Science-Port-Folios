@@ -34,6 +34,8 @@ Please read the [contribution guidelines](contributing.md) first.
 ## DONATE
 <i>Loved the project? Please consider [donating](https://www.paypal.com/paypalme/dracarysinc) to help it improve!</i>
 
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme/dracarysinc)
+
 ## License 
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
