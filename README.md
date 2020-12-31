@@ -19,6 +19,9 @@ If you like this Repo a star would me much appreciated..
 - [portfolio-theme](https://github.com/Md-Saad/portfolio-theme) LIVE [DEMO](https://md-saad.github.io/portfolio-theme/)
 - [navjotsinghprince](https://github.com/navjotsinghprince/navjotsinghprince.github.io) LIVE [DEMO](https://navjotsinghprince.github.io/)
 
+## Other Interesting Portfolios
+- [Garima Singh](https://github.com/garimasingh128) LIVE [DEMO](http://garimasingh.me/)
+
   
 ## Contribute
 
