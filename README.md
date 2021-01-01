@@ -3,7 +3,7 @@ Spend almost 4 hrs Filtering out best of the best Portfolios.
 
 If you like this Repo a star would me much appreciated..
 ## Links & Demos
-- [Software Dev Portfolio](https://github.com/techyhoney/techyhoney.github.io) LIVE [DEMO](https://www.hitengoyal.me/)
+- [techyhoney](https://github.com/techyhoney) LIVE [DEMO](https://www.hitengoyal.me/)
 - [imanishbarnwal.github.io](https://github.com/imanishbarnwal/imanishbarnwal.github.io) LIVE [DEMO](https://www.manishweb.xyz)  
 - [Developer Portfolio](https://github.com/Roshankrsoni/Roshankrsoni.github.io) LIVE [DEMO](https://roshankrsoni.github.io/)
 - [Miftaul Mannan](https://github.com/Tasin5541/portfolio) LIVE [DEMO](https://tasin5541.github.io/)
