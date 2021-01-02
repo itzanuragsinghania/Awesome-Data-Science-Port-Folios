@@ -1,5 +1,5 @@
 # Awesome-Data-Science-Port-Folios
-Spend almost 4 hrs Filtering out best of the best Portfolios.
+Tried to Filter out best of the best Portfolios.
 
 If you like this Repo a star would me much appreciated..
 ## Links & Demos
